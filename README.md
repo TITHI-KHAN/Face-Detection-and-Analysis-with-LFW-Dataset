@@ -1,6 +1,6 @@
 # Face-Detection-and-Analysis-with-LFW-Dataset
 
-**LFW Dataset** : https://www.kaggle.com/datasets/jessicali9530/lfw-dataset/code?datasetId=26922&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false
+**Labelled Faces in the Wild (LFW) Dataset** : https://www.kaggle.com/datasets/jessicali9530/lfw-dataset/code?datasetId=26922&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false
 
 ![1](https://github.com/TITHI-KHAN/Face-Detection-and-Analysis-with-LFW-Dataset/assets/65033964/bf008641-9af0-4eec-abe4-5c29e3a4e69c)
 
